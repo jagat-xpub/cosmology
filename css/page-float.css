@@ -1,0 +1,7 @@
+figure {
+  float: top;
+  float-reference: page;
+  margin: 0 0 3em;
+  border: 3px double;
+  padding: 0.5em;
+}
