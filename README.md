@@ -2,9 +2,9 @@
 
 * [「宇宙論入門」スクロール表示（HTML）](https://jagat-xpub.github.io/cosmology/)
 
-* [「宇宙論入門」ページ表示（Vivliostyle Viewer）](https://vivliostyle.github.io/vivliostyle.js/viewer/vivliostyle-viewer.html#x=https://jagat-xpub.github.io/cosmology/)
+* [「宇宙論入門」ページ表示（Vivliostyle Viewer）](https://vivliostyle.org/viewer/#src=https://jagat-xpub.github.io/cosmology/)
 
-* [同上、図をページフロート配置](https://vivliostyle.github.io/vivliostyle.js/viewer/vivliostyle-viewer.html#x=https://jagat-xpub.github.io/cosmology/&amp;style=https://jagat-xpub.github.io/cosmology/css/page-float.css)
+* [同上、図をページフロート配置](https://vivliostyle.org/viewer/#src=https://jagat-xpub.github.io/cosmology/&amp;style=https://jagat-xpub.github.io/cosmology/css/page-float.css)
 
 ## この「宇宙論入門」サンプルが生まれた経緯
 
